@@ -1,0 +1,24 @@
+{
+  "name": "react-wei",
+  "version": "1.0.0",
+  "description": "react 初探索",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIYS/react-wei.git"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "hui"
+  ],
+  "author": "weiliangwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BIYS/react-wei/issues"
+  },
+  "homepage": "https://github.com/BIYS/react-wei#readme"
+}
